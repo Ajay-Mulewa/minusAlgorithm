@@ -1,0 +1,22 @@
+# Build artifacts
+minus_algorithm
+minus_algorithm_debug
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
